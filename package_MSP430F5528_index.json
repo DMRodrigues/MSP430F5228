@@ -2,11 +2,11 @@
   "packages": [
     {
       "name": "MSP430F5228",
-      "maintainer": "MSP430F5228",
-      "websiteURL": "FIXME",
+      "maintainer": "DMRodrigues",
+      "websiteURL": "https://github.com/DMRodrigues/MSP430F5228",
       "email": "",
       "help": {
-        "online": "FIXME"
+        "online": "https://github.com/DMRodrigues/MSP430F5228"
       },
       "platforms": [
         {
@@ -14,9 +14,9 @@
           "architecture": "msp430",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "FIXME",
-          "archiveFileName": "FIXME",
-          "checksum": "SHA-256: FIXME",
+          "url": "https://raw.githubusercontent.com/DMRodrigues/MSP430F5228/main/MSP430F2558-1.0.0.zip",
+          "archiveFileName": "MSP430F2558-1.0.0.zip",
+          "checksum": "SHA-256:94c2520c9be1ffaf9ac17bdd2376e3f33416326da62e2987a2707818fca6a8fb",
           "size": "15844",
           "boards": [
             {
