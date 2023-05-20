@@ -1,0 +1,368 @@
+{
+  "packages": [
+    {
+      "name": "MSP430F5228",
+      "maintainer": "MSP430F5228",
+      "websiteURL": "FIXME",
+      "email": "",
+      "help": {
+        "online": "FIXME"
+      },
+      "platforms": [
+        {
+          "name": "MSP430F5228",
+          "architecture": "msp430",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "FIXME",
+          "archiveFileName": "FIXME",
+          "checksum": "SHA-256: FIXME",
+          "size": "15844",
+          "boards": [
+            {
+              "name": "MSP430F5228"
+            }
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools": [
+        {
+          "name":"msp430-gcc",
+          "version":"4.6.7",
+          "systems":
+          [
+            {
+              "host":"i686-mingw32",
+              "url":"https://s3.amazonaws.com/energiaUS/tools/windows/msp430-gcc-4.6.7-i686-mingw32.tar.bz2",
+              "archiveFileName":"msp430-gcc-4.6.7-i686-mingw32.tar.bz2",
+              "checksum":"SHA-256:3dbfe6453f461ae5d7599c3cf1144dc400852b6d788d298f3dd0004283a9202a",
+              "size":"30818330"
+            },
+            {
+              "host":"x86_64-apple-darwin",
+              "url":"https://s3.amazonaws.com/energiaUS/tools/macosx/msp430-gcc-4.6.7-i386-apple-darwin11.tar.bz2",
+              "archiveFileName":"msp430-gcc-4.6.7-i386-apple-darwin11.tar.bz2",
+              "checksum":"SHA-256:82d4df153a9d64a507a48ed3b5db9e21eeb069809976c8b69946801252b622bb",
+              "size":"32574759"
+            },
+            {
+              "host": "x86_64-linux-gnu",
+              "url": "https://s3.amazonaws.com/energiaUS/tools/linux64/msp430-gcc-4.6.7-i386-x86_64-pc-linux-gnu.tar.bz2",
+              "archiveFileName": "msp430-gcc-4.6.7-i386-x86_64-pc-linux-gnu.tar.bz2",
+              "checksum": "SHA-256:41fbcb3cc73679186989e1fb27cb4578e9164f07d134e650e23089198b87cbfd",
+              "size": "98503002"
+            }
+          ]
+        },
+        {
+          "name":"msp430-gcc",
+          "version":"4.6.6",
+          "systems":
+          [
+            {
+              "host":"i686-mingw32",
+              "url":"https://s3.amazonaws.com/energiaUS/tools/windows/msp430-gcc-4.6.6-i686-mingw32.tar.bz2",
+              "archiveFileName":"msp430-gcc-4.6.6-i686-mingw32.tar.bz2",
+              "checksum":"SHA-256:3dbfe6453f461ae5d7599c3cf1144dc400852b6d788d298f3dd0004283a9202a",
+              "size":"30818330"
+            },
+            {
+              "host":"x86_64-apple-darwin",
+              "url":"https://s3.amazonaws.com/energiaUS/tools/macosx/msp430-gcc-4.6.6-i386-apple-darwin11.tar.bz2",
+              "archiveFileName":"msp430-gcc-4.6.6-i386-apple-darwin11.tar.bz2",
+              "checksum":"SHA-256:82d4df153a9d64a507a48ed3b5db9e21eeb069809976c8b69946801252b622bb",
+              "size":"32574759"
+            },
+            {
+              "host": "x86_64-linux-gnu",
+              "url": "https://s3.amazonaws.com/energiaUS/tools/linux64/msp430-gcc-4.6.6-i386-x86_64-pc-linux-gnu.tar.bz2",
+              "archiveFileName": "msp430-gcc-4.6.6-i386-x86_64-pc-linux-gnu.tar.bz2",
+              "checksum": "SHA-256:41fbcb3cc73679186989e1fb27cb4578e9164f07d134e650e23089198b87cbfd",
+              "size": "98503002"
+            }
+          ]
+        },
+        {
+          "name":"msp430-gcc",
+          "version":"4.6.5",
+          "systems":
+          [
+            {
+              "host":"i686-mingw32",
+              "url":"https://s3.amazonaws.com/energiaUS/tools/windows/msp430-gcc-4.6.5-i686-mingw32.tar.bz2",
+              "archiveFileName":"msp430-gcc-4.6.5-i686-mingw32.tar.bz2",
+              "checksum":"SHA-256:91496ceffdaf63562d28ca0e27d317f4e22048267efc754450f2b3cf37e69a88",
+              "size":"30758086"
+            },
+            {
+              "host":"x86_64-apple-darwin",
+              "url":"https://s3.amazonaws.com/energiaUS/tools/macosx/msp430-gcc-4.6.5-i386-apple-darwin11.tar.bz2",
+              "archiveFileName":"msp430-gcc-4.6.5-i386-apple-darwin11.tar.bz2",
+              "checksum":"SHA-256:9a85b83a0015d1219157e503d0515092171c1a49a9bd695fe14a4ddfbde66ffb",
+              "size":"32399439"
+            },
+            {
+              "host": "x86_64-linux-gnu",
+              "url": "https://s3.amazonaws.com/energiaUS/tools/linux64/msp430-gcc-4.6.5-i386-x86_64-pc-linux-gnu.tar.bz2",
+              "archiveFileName": "msp430-gcc-4.6.5-i386-x86_64-pc-linux-gnu.tar.bz2",
+              "checksum": "SHA-256:0b5b4ee3e027aa88a8d86b1e5d6bd65f919084f3d3f8678475e4debdbbc930c9",
+              "size": "98367482"
+            }
+          ]
+        },
+        {
+          "name":"msp430-gcc",
+          "version":"4.6.4",
+          "systems":
+          [
+            {
+              "host":"i686-mingw32",
+              "url":"https://s3.amazonaws.com/energiaUS/tools/windows/msp430-gcc-4.6.4-i686-mingw32.tar.bz2",
+              "archiveFileName":"msp430-gcc-4.6.4-i686-mingw32.tar.bz2",
+              "checksum":"SHA-256:21efce29cc6a83ddce3dbce241fcd235437ed1717f8268af169a6429d0c3d20d",
+              "size":"30753419"
+            },
+            {
+              "host":"x86_64-apple-darwin",
+              "url":"https://s3.amazonaws.com/energiaUS/tools/macosx/msp430-gcc-4.6.4-i386-apple-darwin11.tar.bz2",
+              "archiveFileName":"msp430-gcc-4.6.4-i386-apple-darwin11.tar.bz2",
+              "checksum":"SHA-256:e1628d6ddce2d0ee6f9134d3d1b20560cf98cda0cb09a9c33028b3a1d210603d",
+              "size":"32431529"
+            },
+            {
+              "host": "x86_64-linux-gnu",
+              "url": "https://s3.amazonaws.com/energiaUS/tools/linux64/msp430-gcc-4.6.4-i386-x86_64-pc-linux-gnu.tar.bz2",
+              "archiveFileName": "msp430-gcc-4.6.4-i386-x86_64-pc-linux-gnu.tar.bz2",
+              "size": "98437003",
+              "checksum": "SHA-256:6595fd1dd4ebfd77aec31939e922fb4791e2c74185e908e1a4c27c50cb3b7440"
+            }
+          ]
+        },
+        {
+          "name":"msp430-gcc",
+          "version":"4.6.3",
+          "systems":
+          [
+            {
+              "host":"i686-mingw32",
+              "url":"https://s3.amazonaws.com/energiaUS/tools/windows/msp430-gcc-4.6.3-i686-mingw32.zip",
+              "archiveFileName":"msp430-gcc-4.6.3-i686-mingw32.zip",
+              "checksum":"SHA-256:5e3722f6651e33991a199f7a7f3182a3ad0d5ddb5eff199e8c27d1fd269132d2",
+              "size":"47733038"
+            },
+            {
+              "host":"x86_64-apple-darwin",
+              "url":"https://s3.amazonaws.com/energiaUS/tools/macosx/msp430-gcc-4.6.3-i386-apple-darwin11.tar.bz2",
+              "archiveFileName":"msp430-gcc-4.6.3-i386-apple-darwin11.tar.bz2",
+              "checksum":"SHA-256:b919d80880603b55c64b9095eb80d4005e82d7428b0d7ded3864c200cb4f847c",
+              "size":"32357793"
+            },
+            {
+              "host": "x86_64-linux-gnu",
+              "url": "https://s3.amazonaws.com/energiaUS/tools/linux64/msp430-gcc-4.6.3-i386-x86_64-pc-linux-gnu.tar.bz2",
+              "archiveFileName": "msp430-gcc-4.6.3-i386-x86_64-pc-linux-gnu.tar.bz2",
+              "size": "87607164",
+              "checksum": "SHA-256:453832be5150f45a830ea5b0336a911f22fd7553f668a1e93a5c9e58f65f9f7f"
+            }
+          ]
+        },
+        {
+          "name": "arm-none-eabi-gcc",
+          "version": "6.3.1-20170620",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://s3.amazonaws.com/energiaUS/tools/windows/gcc-arm-none-eabi-6.3.1-20170620-windows.tar.bz2",
+              "archiveFileName": "gcc-arm-none-eabi-6.3.1-20170620-windows.tar.bz2",
+              "checksum": "SHA-256:c28a5c2a5272d09bf396c2dcd4c3188ae0dd8ec04d0ce8f581b1995141fc9044",
+              "size": "110277553"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://s3.amazonaws.com/energiaUS/tools/macosx/gcc-arm-none-eabi-6.3.1-20170620-mac.tar.bz2",
+              "archiveFileName": "gcc-arm-none-eabi-6.3.1-20170620-mac.tar.bz2",
+              "checksum": "SHA-256:70ed9ad76f90f33a14bf47d1c2643ee5374dadef820ab38bf2ad9c3c1981aee1",
+              "size": "104268677"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "https://s3.amazonaws.com/energiaUS/tools/linux64/gcc-arm-none-eabi-6.3.1-20170620-x86_64-pc-linux-gnu.tar.bz2",
+              "archiveFileName": "gcc-arm-none-eabi-6.3.1-20170620-x86_64-pc-linux-gnu.tar.bz2",
+              "checksum": "SHA-256:0a98e8cf843c41fdfdfb74cfe5b27e7b0c6054ee92ea1277812513334b6ce02a",
+              "size": "100490382"
+            }
+          ]
+        },
+        {
+          "name": "arm-none-eabi-gcc",
+          "version": "4.8.4-20140725",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "archiveFileName": "gcc-arm-none-eabi-4.8.4-20140725-windows.tar.gz",
+              "url": "https://s3.amazonaws.com/energiaUS/tools/windows/gcc-arm-none-eabi-4.8.4-20140725-windows.tar.gz",
+              "checksum": "SHA-256:2ab5a6ad2a32f976d17b7ef9222623e6f9881be908047cb05730ccd89eb79a1d",
+              "size": "82014307"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://s3.amazonaws.com/energiaUS/tools/macosx/gcc-arm-none-eabi-4.8.4-20140725-mac.tar.bz2",
+              "archiveFileName": "gcc-arm-none-eabi-4.8.4-20140725-mac.tar.bz2",
+              "checksum": "SHA-256:66c9261fdd6d646931dfe940e8daf38d3b11cfba8a7e714c7a3811146b6dc9c7",
+              "size": "52518522"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "https://s3.amazonaws.com/energiaUS/tools/linux64/gcc-arm-none-eabi-4.8.4-20140725-x86_64-pc-linux-gnu.tar.bz2",
+              "archiveFileName": "gcc-arm-none-eabi-4.8.4-20140725-x86_64-pc-linux-gnu.tar.bz2",
+              "checksum": "SHA-256:00636c299e7a420212cdc1643d5c52d3e82eb66c8ce0e4693327cd1e936b52db",
+              "size": "68654066"
+            }
+          ]
+        },
+        {
+          "name":"ino2cpp",
+          "version":"1.0.6",
+          "systems":
+          [
+           {
+              "host":"i686-mingw32",
+              "url":"https://s3.amazonaws.com/energiaUS/tools/ino2cpp-1.0.6.tar.bz2",
+              "archiveFileName":"ino2cpp-1.0.6.tar.bz2",
+              "checksum":"SHA-256:9be2bfa55b272d7f98aff8cc9540368fc54ef8aaa4379071bd5ff14ff7e0a62b",
+              "size":"483712"
+            },
+            {
+              "host":"x86_64-apple-darwin",
+              "url":"https://s3.amazonaws.com/energiaUS/tools/ino2cpp-1.0.6.tar.bz2",
+              "archiveFileName":"ino2cpp-1.0.6.tar.bz2",
+              "checksum":"SHA-256:9be2bfa55b272d7f98aff8cc9540368fc54ef8aaa4379071bd5ff14ff7e0a62b",
+              "size":"483712"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url":"https://s3.amazonaws.com/energiaUS/tools/ino2cpp-1.0.6.tar.bz2",
+              "archiveFileName":"ino2cpp-1.0.6.tar.bz2",
+              "checksum":"SHA-256:9be2bfa55b272d7f98aff8cc9540368fc54ef8aaa4379071bd5ff14ff7e0a62b",
+              "size":"483712"
+            }
+          ]
+        },
+        {
+          "name":"ino2cpp",
+          "version":"1.0.4",
+          "systems":
+          [
+           {
+              "host":"i686-mingw32",
+              "url":"https://s3.amazonaws.com/energiaUS/tools/ino2cpp-1.0.4.tar.bz2",
+              "archiveFileName":"ino2cpp-1.0.4.tar.bz2",
+              "checksum":"SHA-256:f1409b404eb650931ab138aea642451d0706deb19210331d3bd62bfe79099f17",
+              "size":"537535"
+            },
+            {
+              "host":"x86_64-apple-darwin",
+              "url":"https://s3.amazonaws.com/energiaUS/tools/ino2cpp-1.0.4.tar.bz2",
+              "archiveFileName":"ino2cpp-1.0.4.tar.bz2",
+              "checksum":"SHA-256:f1409b404eb650931ab138aea642451d0706deb19210331d3bd62bfe79099f17",
+              "size":"537535"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url":"https://s3.amazonaws.com/energiaUS/tools/ino2cpp-1.0.4.tar.bz2",
+              "archiveFileName":"ino2cpp-1.0.4.tar.bz2",
+              "checksum":"SHA-256:f1409b404eb650931ab138aea642451d0706deb19210331d3bd62bfe79099f17",
+              "size":"537535"
+            }
+          ]
+        },
+        {
+          "name":"ino2cpp",
+          "version":"1.0.4",
+          "systems":
+          [
+           {
+              "host":"i686-mingw32",
+              "url":"https://s3.amazonaws.com/energiaUS/tools/ino2cpp-1.0.4.tar.bz2",
+              "archiveFileName":"ino2cpp-1.0.4.tar.bz2",
+              "checksum":"SHA-256:f1409b404eb650931ab138aea642451d0706deb19210331d3bd62bfe79099f17",
+              "size":"537535"
+            },
+            {
+              "host":"x86_64-apple-darwin",
+              "url":"https://s3.amazonaws.com/energiaUS/tools/ino2cpp-1.0.4.tar.bz2",
+              "archiveFileName":"ino2cpp-1.0.4.tar.bz2",
+              "checksum":"SHA-256:f1409b404eb650931ab138aea642451d0706deb19210331d3bd62bfe79099f17",
+              "size":"537535"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url":"https://s3.amazonaws.com/energiaUS/tools/ino2cpp-1.0.4.tar.bz2",
+              "archiveFileName":"ino2cpp-1.0.4.tar.bz2",
+              "checksum":"SHA-256:f1409b404eb650931ab138aea642451d0706deb19210331d3bd62bfe79099f17",
+              "size":"537535"
+            }
+          ]
+        },
+        {
+          "name":"ino2cpp",
+          "version":"1.0.3",
+          "systems":
+          [
+           {
+              "host":"i686-mingw32",
+              "url":"https://s3.amazonaws.com/energiaUS/tools/ino2cpp-1.0.3.tar.bz2",
+              "archiveFileName":"ino2cpp-1.0.3.tar.bz2",
+              "checksum":"SHA-256:562c9364db80affc5a5b51a79b70950680c77d7ee62244e18bc8b6f7c114fdeb",
+              "size":"485132"
+            },
+            {
+              "host":"x86_64-apple-darwin",
+              "url":"https://s3.amazonaws.com/energiaUS/tools/ino2cpp-1.0.3.tar.bz2",
+              "archiveFileName":"ino2cpp-1.0.3.tar.bz2",
+              "checksum":"SHA-256:562c9364db80affc5a5b51a79b70950680c77d7ee62244e18bc8b6f7c114fdeb",
+              "size":"485132"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url":"https://s3.amazonaws.com/energiaUS/tools/ino2cpp-1.0.3.tar.bz2",
+              "archiveFileName":"ino2cpp-1.0.3.tar.bz2",
+              "checksum":"SHA-256:562c9364db80affc5a5b51a79b70950680c77d7ee62244e18bc8b6f7c114fdeb",
+              "size":"485132"
+            }
+          ]
+        },
+        {
+          "name":"ino2cpp",
+          "version":"1.0.2",
+          "systems":
+          [
+           {
+              "host":"i686-mingw32",
+              "url":"https://s3.amazonaws.com/energiaUS/tools/ino2cpp-1.0.2.tar.bz2",
+              "archiveFileName":"ino2cpp-1.0.2.tar.bz2",
+              "checksum":"SHA-256:6f63041767f4f15b1da7b62aa3086e6912f9e05b19bfdf512d573bcc9ac7c9a5",
+              "size":"484493"
+            },
+            {
+              "host":"x86_64-apple-darwin",
+              "url":"https://s3.amazonaws.com/energiaUS/tools/ino2cpp-1.0.2.tar.bz2",
+              "archiveFileName":"ino2cpp-1.0.2.tar.bz2",
+              "checksum":"SHA-256:6f63041767f4f15b1da7b62aa3086e6912f9e05b19bfdf512d573bcc9ac7c9a5",
+              "size":"484493"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url":"https://s3.amazonaws.com/energiaUS/tools/ino2cpp-1.0.2.tar.bz2",
+              "archiveFileName":"ino2cpp-1.0.2.tar.bz2",
+              "checksum":"SHA-256:6f63041767f4f15b1da7b62aa3086e6912f9e05b19bfdf512d573bcc9ac7c9a5",
+              "size":"484493"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
