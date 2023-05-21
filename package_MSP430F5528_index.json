@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/DMRodrigues/MSP430F5228/main/MSP430F2558-1.0.0.zip",
           "archiveFileName": "MSP430F2558-1.0.0.zip",
-          "checksum": "SHA-256:94c2520c9be1ffaf9ac17bdd2376e3f33416326da62e2987a2707818fca6a8fb",
-          "size": "15844",
+          "checksum": "SHA-256:00b65daa6bab7f6274b7bd54c2b9e2b9d56c563f3fd3332231178833646eab7e",
+          "size": "78231",
           "boards": [
             {
               "name": "MSP430F5228"
