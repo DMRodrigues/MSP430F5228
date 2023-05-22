@@ -1,0 +1,23 @@
+# See: http://code.google.com/p/arduino/wiki/Platforms
+
+menu.cpu=Processor
+
+##############################################################
+
+#MSP430F5528
+
+MSP430F5528.vid.0=0x2341
+MSP430F5528.pid.0=0x0c9f
+
+MSP430F5528.name=MSP430F5528
+
+MSP430F5528.build.mcu=msp430f5528
+MSP430F5528.build.f_cpu=25000000L
+MSP430F5528.build.core=msp430
+MSP430F5528.build.variant=MSP430F5528
+MSP430F5528.build.board=MSP430F5528
+
+MSP430F5528.upload.tool=dslite
+MSP430F5528.upload.protocol=dslite
+MSP430F5528.upload.maximum_size=48128
+MSP430F5528.upload.maximum_data_size=8192
