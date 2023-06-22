@@ -115,7 +115,7 @@
 typedef struct {
   uint8_t recvpin;             // pin for IR data from detector
   uint8_t rcvstate;            // state machine
-  uint8_t blinkflag;           // TRUE to enable blinking of GREEN_LED on IR processing
+  uint8_t blinkflag;           // TRUE to enable blinking of LED_BUILTIN on IR processing
   unsigned int timer;          // state timer, counts 50uS ticks.
   unsigned int rawbuf[RAWBUF]; // raw data
   uint8_t rawlen;              // counter of entries in rawbuf
@@ -176,9 +176,8 @@ extern volatile irparams_t irparams;
 #error "Internal code configuration error, no known IR_USE_TIMER# defined\n"
 #endif
 
-// defines for blinking the (Green) LED
-// MSP430 launchpad also has RED_LED
-#define BLINKLED       GREEN_LED
+// defines for blinking the LED_BUILTIN LED
+#define BLINKLED       LED_BUILTIN
 #define BLINKLED_ON()  (digitalWrite(BLINKLED, HIGH))
 #define BLINKLED_OFF() (digitalWrite(BLINKLED, LOW))
 

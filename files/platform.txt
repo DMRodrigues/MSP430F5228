@@ -5,7 +5,7 @@
 # https://github.com/arduino/Arduino/wiki/Arduino-IDE-1.5-3rd-party-Hardware-specification
 
 name=MSP430F5528
-version=1.0.1
+version=1.0.3
 
 # AVR compile variables
 # --------------------- 

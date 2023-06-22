@@ -12,12 +12,12 @@
         {
           "name": "MSP430F5228",
           "architecture": "msp430",
-          "version": "1.0.1",
+          "version": "1.0.3",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/DMRodrigues/MSP430F5228/main/MSP430F2558-1.0.1.zip",
-          "archiveFileName": "MSP430F2558-1.0.1.zip",
-          "checksum": "SHA-256:c07bf313f6ec8a8586f5842fcb8a0dd5342b1c2d4d221270b6bf31f78de49518",
-          "size": "2719679",
+          "url": "https://github.com/DMRodrigues/MSP430F5228/archive/refs/tags/v1.0.3.zip",
+          "archiveFileName": "MSP430F2558-1.0.3.zip",
+          "checksum": "SHA-256:c86b0fc87907901a518c796af1aa673ad8a76b332182ad43bb654f4638a01b1f",
+          "size": "2749155",
           "boards": [
             {
               "name": "MSP430F5228"
