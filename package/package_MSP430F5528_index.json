@@ -14,9 +14,9 @@
           "architecture": "msp430",
           "version": "1.0.3",
           "category": "Contributed",
-          "url": "https://github.com/DMRodrigues/MSP430F5228/archive/refs/tags/v1.0.3.zip",
+          "url": "https://github.com/DMRodrigues/MSP430F5228/releases/download/v1.0.3/MSP430F5228-1.0.3.zip",
           "archiveFileName": "MSP430F2558-1.0.3.zip",
-          "checksum": "SHA-256:c86b0fc87907901a518c796af1aa673ad8a76b332182ad43bb654f4638a01b1f",
+          "checksum": "SHA-256:06cebc5d7bb86f39c52771eeee556c60a1c797326e1ad5822708e7b335771def",
           "size": "2749155",
           "boards": [
             {
