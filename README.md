@@ -11,5 +11,5 @@ Instructions
 ------------
 To install using the most recent Energia IDE see: [Using the Energia Board Manager](https://energia.nu/guide/boards/).
 ```
-https://raw.githubusercontent.com/DMRodrigues/MSP430F5228/main/package_MSP430F5528_index.json
+https://raw.githubusercontent.com/DMRodrigues/MSP430F5228/main/package/package_MSP430F5528_index.json
 ```
